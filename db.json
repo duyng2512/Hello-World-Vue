@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Todo Two",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Todo Three",
+      "completed": false
+    },
+    {
+      "title": "Back end Developer",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Engineer",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Front end developer",
+      "completed": false,
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
